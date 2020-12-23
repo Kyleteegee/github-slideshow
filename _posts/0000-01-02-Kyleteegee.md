@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I need pictures of Spiderman!
 Use the left arrow to go back!
